@@ -346,6 +346,12 @@ div#background {
     height: 16px;
     text-align: center;
     padding-top: 6px;
+	
+}
+.infoTab
+ {
+font-size: 12px;
+	
 }
 
 .singlePanel #infoTab {
@@ -359,6 +365,7 @@ div#background {
 
 #current_playlist_summary {
     position: absolute;
+	font-size: 12px;
     bottom: 0;
     right: 80px;
 }
@@ -1023,6 +1030,7 @@ form#advSearchForm.resultsPage {
 #ctrlPlaytime,
 #ctrlPlaytimeRight {
     position: absolute;
+	font-size: 11px;
     top: 0px;
 }
 
@@ -1092,7 +1100,7 @@ form#advSearchForm.resultsPage {
 }
 
 #ctrlCurrentTitle {
-    font-size: 13px;
+    font-size: 12px;
     font-weight: bold;
     padding-left: 6px;
     margin-bottom: 5px;
@@ -1105,6 +1113,7 @@ form#advSearchForm.resultsPage {
     white-space: nowrap;
     text-overflow: ellipsis;
     overflow: hidden;
+	 font-size: 12px;
 }
 
 #ctrlTrackInfo {
